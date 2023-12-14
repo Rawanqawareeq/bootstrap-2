@@ -1,0 +1,43 @@
+ @media screen and (max-width: 568px) {
+
+    .header{
+        background-position-x:-259pxpx;
+    }
+    .header-content{
+        align-items:start !important;
+        font-size: 30px;
+    }
+    .contact p , .contact form{
+        width: 100% !important;
+    }
+    
+ }
+ @media screen and (max-width: 991px) {
+
+   .navbar .nav-item {
+    width: fit-content;
+   }
+    
+ }
+ @media(max-width: 768px) {
+
+    .about .stats{
+      border: none !important;
+    }
+    .about .stat{
+        border: none !important;
+      }
+      .about i{
+         padding-top:4px ;
+      }
+     .Download-Resume .brand{
+        justify-content: center !important;
+
+     }
+     .Download{
+        text-align: center;
+        margin-bottom: 4px;
+     }
+
+  }
+ 
